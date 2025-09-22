@@ -1,6 +1,6 @@
 # Deep Learning from Scratch: Build Neural Network ✦⋆｡˚ 𓆉 𓆝 𓆡 ⋆｡˚✦
 
-📚🧠 Learn ML &amp; Deep Learning from scratch — build logistic regression, neural networks, and deep models from scratch with numpy.
+Learn ML &amp; Deep Learning from scratch — build logistic regression, neural networks, and deep models from scratch with numpy.
 
 This repository contains hands-on notebooks, implementations, and notes that walk through the foundations of **Machine Learning (ML)** and **Deep Learning (DL)** — starting from **Logistic Regression with a Neural Network** and gradually building up to **Deep Neural Networks (DNNs)**.  
 
