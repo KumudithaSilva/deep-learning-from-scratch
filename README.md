@@ -34,7 +34,7 @@ This project serves as a structured, practical learning path for:
 - Forward propagation  
 - Cost function & gradients  
 - Optimization with Gradient Descent  
-- Building the Logistic Regression classifier for image recognition (cats vs non-cats 🐱)  
+- Building the Logistic Regression classifier for image recognition
 
 ---
 
