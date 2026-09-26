@@ -6,56 +6,54 @@ This repository contains hands-on notebooks, implementations, and notes that wal
 
 The focus is on understanding concepts deeply by implementing them manually with `numpy`, before moving on to higher-level frameworks.
 
----
 
-## 🎯 Purpose
+
+## Purpose
 
 This project serves as a structured, practical learning path for:
 
-- 📌 Building ML/DL algorithms **from scratch** (without black-box frameworks)  
-- 📌 Developing strong intuition about **forward/backward propagation, cost functions, and optimization**  
-- 📌 Understanding how modern deep networks extend simple models like **Logistic Regression**  
-- 📌 Preparing a solid foundation for frameworks like **TensorFlow** and **PyTorch**  
+- Building ML/DL algorithms **from scratch** (without black-box frameworks)  
+- Developing strong intuition about **forward/backward propagation, cost functions, and optimization**  
+- Understanding how modern deep networks extend simple models like **Logistic Regression**  
+- Preparing a solid foundation for frameworks like **TensorFlow** and **PyTorch**  
 
----
 
-## 📚 Topics Covered
 
-### 1️⃣ Python & Numpy Basics for ML
+## Topics Covered
+
+### 1. Python & Numpy Basics for ML
 - Vectorization vs loops  
 - Sigmoid, Softmax, and their derivatives  
 - Reshaping and normalizing data  
 - Loss functions: L1, L2  
 
----
 
-### 2️⃣ Logistic Regression with a Neural Network
+
+### 2️. Logistic Regression with a Neural Network
 - Initializing parameters  
 - Forward propagation  
 - Cost function & gradients  
 - Optimization with Gradient Descent  
 - Building the Logistic Regression classifier for image recognition
 
----
 
-### 3️⃣ Building a Shallow Neural Network (2-layer)
+### 3️. Building a Shallow Neural Network (2-layer)
 - Adding a hidden layer  
 - Using activation functions like **ReLU** and **tanh**  
 - Implementing **backpropagation step by step**  
 - Comparing results with Logistic Regression  
 
----
 
-### 4️⃣ Building Your Deep Neural Network (L-layers)
+
+### 4️. Building Your Deep Neural Network (L-layers)
 - Generalizing to **L-layer networks**  
 - Forward Propagation: **Linear → Activation → Model**  
 - Backward Propagation for deep nets  
 - Parameter updates  
 - Putting everything into a **`NeuralNetwork` class**  
 
----
 
-### 5️⃣ Optimization & Training Tricks
+### 5️. Optimization & Training Tricks
 - Learning rate tuning  
 - Initialization strategies (**Xavier, He**)  
 - Gradient checking  
@@ -63,18 +61,16 @@ This project serves as a structured, practical learning path for:
 - Mini-batch Gradient Descent  
 - Advanced optimizers: **Adam**  
 
----
 
 
-## 📚 Recommended Learning Resources
+## Recommended Learning Resources
 
 - [Deep Learning Specialization (Coursera)](https://www.coursera.org/specializations/deep-learning)  
 - [PyTorch Documentation](https://pytorch.org/docs/stable/)  
 - [TensorFlow Documentation](https://www.tensorflow.org/)  
 
----
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 Special thanks to the open-source ML/DL community and course creators who inspired this learning journey.
 
