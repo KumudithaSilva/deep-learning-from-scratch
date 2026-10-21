@@ -1,4 +1,6 @@
 .ipynb_checkpoints/
 /notebooks/references/
 .DS_Store
-/samples/
+.vscode/
+.idea/
+.env/
